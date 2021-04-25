@@ -1,12 +1,24 @@
 #include <iostream>
-
-#include "data_structure.hpp"
-
+#include <queue>
+#include "priority_queue.hpp"
 using namespace std;
 
 int main(int argc, char *argv[]) {
-  for (int index = 0; index < argc; index++) {
-    cout << index << ": " << argv[index] << endl;
-  }
+
+  auto *pq = new itis::PriorityQueue();
+  pq->push(3);
+  pq->push(9);
+  pq->push(5);
+  pq->push(6);
+  pq->push(2);
+  pq->print();
+  cout << "------------" << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
+  cout << pq->pop() << endl;
   return 0;
 }
