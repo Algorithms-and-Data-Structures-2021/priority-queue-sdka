@@ -1,9 +1,7 @@
 # Priority Queue
 
-[[![CMake](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml)
+[![CMake](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml)
 
-
-`Actions > CMake > ... > Create status badge`
 
 _Краткое описание семестрового проекта. Следует отразить информацию по следующим пунктам:_
 
