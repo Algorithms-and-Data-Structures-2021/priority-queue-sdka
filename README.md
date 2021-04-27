@@ -1,6 +1,6 @@
 # Priority Queue
 
-[![CMake](https://github.com/Algorithms-and-Data-Structures-2021/semester-work-template/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/semester-work-template/actions/workflows/cmake.yml)
+[[![CMake](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml)
 
 
 `Actions > CMake > ... > Create status badge`
@@ -39,7 +39,7 @@ _Заполните таблицу с указанием вклада каждо
 | :---          |   ---:    |  ---:                 |
 | Рузавин Георгий   | 50        |  _boss♂of♂this♂gym_               |
 | Рузавин Георгий   | 40        |  _потрошитель вареников_ |
-| Рузавин Георгий   | 10        |  _искажение души_         |
+| Рузавин Георгий   | 10        |  _деформация души_         |
 
 **Девиз команды**
 > _Ты Слава Мэрлоу?_
