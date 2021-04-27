@@ -195,14 +195,14 @@ _Опишите, как запустить контрольные тесты, ч
 
 ## Источники
 
-https://runestone.academy/runestone/books/published/cppds/Trees/BinaryHeapImplementation.html
+1. https://runestone.academy/runestone/books/published/cppds/Trees/BinaryHeapImplementation.html
 
-https://habr.com/ru/post/112222/
+2. https://habr.com/ru/post/112222/
 
-https://en.wikipedia.org/wiki/Priority_queue#:~:text=In%20computer%20science%2C%20a%20priority,an%20element%20with%20low%20priority.
+3. https://en.wikipedia.org/wiki/Priority_queue#:~:text=In%20computer%20science%2C%20a%20priority,an%20element%20with%20low%20priority.
 
-https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B8
+4. https://neerc.ifmo.ru/wiki/index.php?title=%D0%9F%D1%80%D0%B8%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D1%82%D0%BD%D1%8B%D0%B5_%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B8
 
-https://www.youtube.com/watch?v=FrqSEkB-kbY
+5. https://www.youtube.com/watch?v=FrqSEkB-kbY
 
-https://qastack.ru/software/254947/difference-between-a-heap-and-a-priority-queue
+6. https://qastack.ru/software/254947/difference-between-a-heap-and-a-priority-queue
