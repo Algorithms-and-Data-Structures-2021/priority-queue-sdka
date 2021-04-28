@@ -69,17 +69,15 @@ int main() {
     input_stream.close();
 
 
+    //создание кучи из полученных данных
 
+    auto* pq = new PriorityQueue();
 
+    for (int k = 0; k < count; ++k) {
+      pq->push(intValues[k]);
+    }
     // замеры времени
     for (int j = 0; j < 10; ++j) {
-      //создание кучи из полученных данных
-      auto* pq = new PriorityQueue();
-
-      for (int k = 0; k < count; ++k) {
-        pq->push(intValues[k]);
-      }
-
       const auto time_point_before = chrono::steady_clock::now();
 
       for (int i = 0; i < count ; ++i) {

@@ -1,20 +1,13 @@
 #pragma once
 #include <vector>
-// Заголовочный файл с объявлением структуры данных
 
 namespace itis {
 
-  // Tip 1: объявите здесь необходимые структуры, функции, константы и прочее
 
-  // Пример: объявление константы времени компиляции в заголовочном файле
-  inline constexpr auto kStringConstant = "Hello, stranger!";
 
-  // Пример: объявление структуры с полями и методами
   class PriorityQueue {
    public:
     std::vector<int> heap_vector_;
-    // Tip 2: На начальном этапе разработки структуры данных можете определения методов задавать в
-    // заголовочном файле, как только работа будет завершена, можно будет оставить здесь только объявления.
 
     int size() const {
       return size_;
@@ -46,7 +39,7 @@ namespace itis {
     }
 
     void swapDown(int i){
-      while ((i*2) <= (size_)){
+      while (i*2 <= size_){
        int min_child = minChild(i);
         if (heap_vector_[i] > heap_vector_[min_child]){
           int tmp = heap_vector_[i];

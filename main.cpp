@@ -13,8 +13,9 @@ int main(int argc, char *argv[]) {
   pq->push(2);
   pq->print();
   cout << "------------" << endl;
-  cout << pq->pop() << endl;
-  cout << pq->pop() << endl;
+  cout << pq->peek() << endl;
+  cout << pq->peek() << endl;
+  cout << pq->peek() << endl;
   cout << pq->pop() << endl;
   cout << pq->pop() << endl;
   cout << pq->pop() << endl;
