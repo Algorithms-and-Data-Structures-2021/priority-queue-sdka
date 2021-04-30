@@ -3,7 +3,7 @@
 [![CMake](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml/badge.svg)](https://github.com/Algorithms-and-Data-Structures-2021/priority-queue-sdka/actions/workflows/cmake.yml)
 
 
-_Краткое описание семестрового проекта. Следует отразить информацию по следующим пунктам:_
+[Google Drive](https://drive.google.com/drive/folders/1NpVuf3UVyZqdU5wHs8RwCSoJ4PvPYlkD) ссылка на гугл диск проекта.
 
 - _**Какая структура данных реализуется?**_
   
