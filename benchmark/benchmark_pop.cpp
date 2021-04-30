@@ -90,6 +90,7 @@ int main() {
       // переводим время в наносекунды
       const auto time_diff = time_point_after - time_point_before;
       const auto time_elapsed_ns = chrono::duration_cast<chrono::nanoseconds>(time_diff).count();
+      cout << "Time elapsed (ns): " << time_elapsed_ns << '\n';
       //запись в файл
       if (output_stream) {
         output_stream << (float) time_elapsed_ns /( 1000*count) << endl;
